@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name"> +1000 إقتباسات ونصائح </string>
+    <string name="share">  مشاركة  التطبيق </string>
+    <string name="testbanner">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="test_full">ca-app-pub-3940256099942544/1033173712</string>
+
+    <string name="policy_privacy">privacy policy</string>
+    <string name="exit">exit </string>
+    <string name="share_this_app">شارك رابط التطبيق مع اصدقائك</string>
+
+    <string name="shar_txt">اجمل الخلفيات الحديثة من هنا رابط تطبيق اندرويد </string>
+    <string name="list_of_apps">تطبيقاتنا</string>
+    <string name="mmm">hellow</string>
+    <string name="update_now">تحديث الان</string>
+    <string name="please_update">مرحبا عزيزي  المستخدم نريد ان نخبرك بأنه يجب عليك تحديث هذا التطبيق بالنقر على زر تحديث الان شكرا لتفهمك</string>
+
+    <string name="rate_now">تقييم الان </string>
+    <string name="rate_our_app_message">يرجى تقييم التطبيق</string>
+    <string name="later">لاحقا</string>
+    <string name="action_rate">Rate App</string>
+    <string name="noimg">no image</string>
+    <string name="policycontent">سياسة الخصوصية</string>
+
+    <string name="abpoutapp">معلومات التطبيق</string>
+    <string name="succss_add_to_fafvorit">تم الاضافة للقائمة المفضلة بنجاح</string>
+    <string name="more_apps">المزيد من تطبيقات </string>
+
+    <string name="favorit">المفضلة</string>
+    <string name="no_favorite">المفضلة فارغه</string>
+    <string name="ok_remove_from_fafvorite" translatable="false">تم الحذف من المفضلة</string>
+
+    <string name="successful">تم بنجاح</string>
+    <string name="main_list">القائمة</string>
+    <string name="show_all">عرض الكل</string>
+    <string name="our_apps">تطبيقاتنا</string>
+    <!--//foryasertelcome-->
+
+
+
+    <string name="whats_share">مشاركة الحالة واتساب</string>
+    <string name="rate_our_app">تقييم التطبيق</string>
+    <string name="open_app">فتح التطبيق</string>
+
+    <string name="wait_ads">انتظار اعلان... </string>
+
+
+
+
+
+    <string name="ads_index">20</string>
+    <string name="app_id">ca-app-pub-3940256099942544~3212206331</string>
+    <string name="ads1">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="full_ads">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="nativ_adds">ca-app-pub-3940256099942544/1044960115</string>
+    <string name="open_ads">ca-app-pub-3940256099942544/3419835294</string>
+
+
+    <string name="policy_url">https://sites.google.com/view/adasd</string>
+    <string name="devlper_name">myaccount</string>
+    <string name="sizeimage_recylc_inrow">2</string>
+
+    <string name="cute_walls">Cute Wallpaper</string>
+    <string name="Qutes"> 3D Qutes</string>
+    <string name="Funny">Funny</string>
+    <string name="cute_hands">Cute Hands</string>
+    <string name="cute_advice">Cute Advices</string>
+
+    <string name="count_walls">106</string>
+    <string name="count_cutes">84</string>
+    <string name="count_Advices">126</string>
+    <string name="count_quotes">125</string>
+    <string name="count_funny">100</string>
+    <string name="wallpaper_label"> خلفيات</string>
+    <string name="advices_label"> نصائح ومحفزات </string>
+    <string name="funny_label"> حالات مضحكة</string>
+    <string name="qutes_label"> اقتباسات </string>
+    <string name="cutes_label">أيادي نرجسية </string>
+
+
+</resources>

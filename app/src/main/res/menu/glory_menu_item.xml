@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/policy_page"
+        android:icon="@drawable/glory_more_vector"
+
+        android:title="@string/policycontent"
+        />
+
+    <item
+        android:id="@+id/rate_menu"
+        android:visible="true"
+        android:icon="@drawable/glory_more_vector"
+        android:title="@string/rate_our_app" />
+
+
+    <item
+        android:id="@+id/more_menu"
+        android:icon="@drawable/glory_more_vector"
+        android:title="@string/more_apps" />
+
+</menu>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/main_page_options"
+        android:icon="@drawable/menu_vector"
+
+        android:title="@string/main_list"
+        />
+
+    <item
+        android:id="@+id/favorit_menu_options"
+
+        android:icon="@drawable/glory_fav_vector"
+        android:title="@string/favorit"
+        android:visible="false" />
+    <item
+        android:id="@+id/more_menu_options"
+        android:icon="@drawable/glory_more_vector"
+        android:title="@string/our_apps" />
+    <item
+        android:id="@+id/rate_menu_optins"
+        android:visible="true"
+        android:icon="@drawable/glory_rate_vector"
+        android:title="@string/rate_our_app" />
+
+</menu>

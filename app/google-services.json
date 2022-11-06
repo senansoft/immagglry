@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1050365029675",
+    "project_id": "stickandqutes",
+    "storage_bucket": "stickandqutes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050365029675:android:4e272139aa99784defe96e",
+        "android_client_info": {
+          "package_name": "com.glarryimg.apprr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050365029675-q6ag5lkncpuvdbjbpl5btfjat7cknc29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSjfcSZxKRxl_v122HdjcXfR2lFBmlOoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050365029675-q6ag5lkncpuvdbjbpl5btfjat7cknc29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+
+  ],
+  "configuration_version": "1"
+}
